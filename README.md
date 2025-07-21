@@ -83,7 +83,7 @@ Enhancing generalization and using real-time data can boost reliability.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Amarjeetusnale/Employee-Salary-Prediction-Using-Machine-Learning-Model.git
+   git clone https://github.com/abhay1179/Employee-Salary-Predection-Abhay.git
    cd Employee-Salary-Prediction
    ```
 
